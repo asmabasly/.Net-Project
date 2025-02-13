@@ -14,7 +14,7 @@ namespace AM.ApplicationCore.Interface
 
         public void ShowFlightDetails(Plane plane);
 
-        public int ProgrammedFlightNumber(DateTime startDate).
+        public int ProgrammedFlightNumber(DateTime startDate);
 
         public float DurationAverage(string destination);
 

@@ -32,7 +32,7 @@ namespace AM.ApplicationCore.Services
                     Console.WriteLine(item.FlightDate + item.Destination);
                 }
             };
-            DurationAverageDel = p => {
+            DurationAverageDel = d => {
                 var query = from flight in Flights
                             where flight.Destination == d
                             select flight.EstimatedDuration;

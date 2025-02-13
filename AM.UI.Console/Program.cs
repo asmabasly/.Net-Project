@@ -26,8 +26,15 @@ class Program
         Console.WriteLine(plane3.ToString());
         Plane plane4 = new Plane { };
         Console.WriteLine(plane4.ToString());
-        Passenger passenger = new Passenger { FirstName = "Asma", LastName = "Basly", Email = "asma.Basly@esprit.tn" };
+        Passenger passenger = new Passenger { FirstName = "asma",
+                                            LastName = "basly",
+                                            Email = "asma.Basly@esprit.tn" };
+        Console.WriteLine("AVANT EXTENTION");
         Console.WriteLine(passenger.ToString());
+        passenger.UpperFullName();
+        Console.WriteLine("APRES EXTENTION");
+        Console.WriteLine(passenger.ToString());
+
         Console.WriteLine(passenger.CheckProfile("Asma", "Basly"));
         Console.WriteLine(passenger.CheckProfile("Asma", "Basly", "asma.Basly@esprit.tn"));
         Staff staff1 = new Staff { FirstName = "StaffFirstName", LastName = "StaffLastName" };
