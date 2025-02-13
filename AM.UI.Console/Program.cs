@@ -44,19 +44,19 @@ class Program
         {
             Console.WriteLine(item);
         }
-        Console.WriteLine("QUESTION 8 //");
+        Console.WriteLine("----------------- QUESTION 8 -----------------");
         flightMethods.GetFlights("Destination", "Paris");
 
         //Console.WriteLine("QUESTION 10 //");
         //flightMethods.ShowFlightDetails(Testdata.Airbusplane);
 
-        Console.WriteLine("QUESTION 11 //");
+        Console.WriteLine("----------------- QUESTION 11 -----------------");
         //Console.WriteLine(flightMethods.ProgrammedFlightNumber(new DateTime(2022, 01, 01, 10, 10, 10)));
         
-        Console.WriteLine("QUESTION 12 //");
+        Console.WriteLine("----------------- QUESTION 12 -----------------");
         Console.WriteLine(flightMethods.DurationAverage("Madrid"));
 
-        Console.WriteLine("QUESTION 13 //");
+        Console.WriteLine(" ----------------- QUESTION 13 -----------------");
         foreach (var item in flightMethods.OrderdDurationFlights())
         { Console.WriteLine(item); }
 
@@ -67,8 +67,16 @@ class Program
             Console.WriteLine(item);
         }
 
-        Console.WriteLine("QUESTION 15 //");
+        Console.WriteLine(" ----------------- QUESTION 15 -----------------");
         flightMethods.DestinationGroupFlights();
+
+        Console.WriteLine("------------------ QUESTION 16 sans delegate -----------------");
+
+        flightMethods.ShowFlightDetails(Testdata.Airbusplane);
+        Console.WriteLine(" ----------------- QUESTION 16 avec delegate -----------------");
+
+        flightMethods.FlightDetailsDel(Testdata.Airbusplane);
+
     }
 }
 
