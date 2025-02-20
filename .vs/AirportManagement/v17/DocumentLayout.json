@@ -7,6 +7,30 @@
       "RelativeMoniker": "D:0:0:{57C7CD38-F9F5-4AA9-8E41-CA261D70A445}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.infrastructure\\migrations\\amcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\amcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.infrastructure\\migrations\\20250220090054_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250220090054_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,24 +43,12 @@
       "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interface\\iflightmethode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57C7CD38-F9F5-4AA9-8E41-CA261D70A445}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.ui.console\\am.ui.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{57C7CD38-F9F5-4AA9-8E41-CA261D70A445}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\am.ui.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{737716EE-187E-4F1C-8427-49F4C8C94D0B}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\tifa\\source\\repos\\airportmanagement\\am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,48 +62,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PassengerExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
-              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeToolTip": "AM.UI.Console\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAQwF0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T10:45:20.812Z",
+              "WhenOpened": "2025-02-20T09:02:03.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Testdata.cs",
-              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Testdata.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Testdata.cs",
-              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Testdata.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Testdata.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwB4AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "20250220090054_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.Infrastructure\\Migrations\\20250220090054_FirstMigration.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250220090054_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.Infrastructure\\Migrations\\20250220090054_FirstMigration.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250220090054_FirstMigration.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T09:45:39.005Z"
+              "WhenOpened": "2025-02-20T09:00:55.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "AM.Infrastructure\\AMContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:27:03.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Passenger.cs",
               "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Passenger.cs",
               "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
               "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-13T08:24:24.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Testdata.cs",
+              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Testdata.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Testdata.cs",
+              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Testdata.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Testdata.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwCgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:45:39.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AM.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeToolTip": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T08:21:09.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
@@ -104,6 +154,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AMContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.Infrastructure\\Migrations\\AMContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\AMContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.Infrastructure\\Migrations\\AMContextModelSnapshot.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\AMContextModelSnapshot.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:02:29.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FlightMethods.cs",
               "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Services\\FlightMethods.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\FlightMethods.cs",
@@ -111,12 +173,11 @@
               "RelativeToolTip": "AM.ApplicationCore\\Services\\FlightMethods.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T10:27:50.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T10:27:50.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Staff.cs",
               "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Staff.cs",
@@ -128,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Plane.cs",
               "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
@@ -140,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IFlightMethode.cs",
               "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Interface\\IFlightMethode.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Interface\\IFlightMethode.cs",
@@ -148,33 +209,19 @@
               "RelativeToolTip": "AM.ApplicationCore\\Interface\\IFlightMethode.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAkwBAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T08:56:08.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T08:56:08.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.UI.Console\\Program.cs",
-              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.UI.Console\\Program.cs",
-              "RelativeToolTip": "AM.UI.Console\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCAAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "PassengerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T08:43:08.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AM.UI.Console.csproj",
-              "DocumentMoniker": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj",
-              "RelativeDocumentMoniker": "AM.UI.Console\\AM.UI.Console.csproj",
-              "ToolTip": "C:\\Users\\Tifa\\source\\repos\\AirportManagement\\AM.UI.Console\\AM.UI.Console.csproj",
-              "RelativeToolTip": "AM.UI.Console\\AM.UI.Console.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T10:29:58.421Z"
+              "WhenOpened": "2025-02-13T10:45:20.812Z"
             }
           ]
         }

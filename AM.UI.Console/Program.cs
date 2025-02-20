@@ -2,6 +2,7 @@
 using AM.ApplicationCore.Domain;
 using AM.ApplicationCore.Services;
 using AM.ApplicationCore.Interface;
+using AM.Infrastructure;
 
 class Program
 {
@@ -83,6 +84,12 @@ class Program
         Console.WriteLine(" ----------------- QUESTION 16 avec delegate -----------------");
 
         flightMethods.FlightDetailsDel(Testdata.Airbusplane);
+
+        Console.WriteLine(" ----------------- ATELIER 3 -----------------");
+        AMContext context = new AMContext();
+        context.Flights.Add(Testdata.flight3);
+        context.SaveChanges();
+                
 
     }
 }

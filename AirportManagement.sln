@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AM.UI.Console", "AM.UI.Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AM.ApplicationCore", "AM.ApplicationCore\AM.ApplicationCore.csproj", "{737716EE-187E-4F1C-8427-49F4C8C94D0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AM.Infrastructure", "AM.Infrastructure\AM.Infrastructure.csproj", "{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{737716EE-187E-4F1C-8427-49F4C8C94D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{737716EE-187E-4F1C-8427-49F4C8C94D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{737716EE-187E-4F1C-8427-49F4C8C94D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E93E78-75C5-4F2D-8DA4-5DEC41024436}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
