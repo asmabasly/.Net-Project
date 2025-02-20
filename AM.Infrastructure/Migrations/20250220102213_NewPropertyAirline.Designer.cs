@@ -4,6 +4,7 @@ using AM.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AM.Infrastructure.Migrations
 {
     [DbContext(typeof(AMContext))]
-    partial class AMContextModelSnapshot : ModelSnapshot
+    [Migration("20250220102213_NewPropertyAirline")]
+    partial class NewPropertyAirline
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -57,7 +60,7 @@ namespace AM.Infrastructure.Migrations
 
                     b.HasIndex("PlaneId");
 
-                    b.ToTable("Flights", (string)null);
+                    b.ToTable("Flights");
                 });
 
             modelBuilder.Entity("AM.ApplicationCore.Domain.Passenger", b =>
@@ -95,7 +98,7 @@ namespace AM.Infrastructure.Migrations
 
                     b.HasIndex("FlightId");
 
-                    b.ToTable("Passenger", (string)null);
+                    b.ToTable("Passenger");
 
                     b.HasDiscriminator().HasValue("Passenger");
 
@@ -121,7 +124,7 @@ namespace AM.Infrastructure.Migrations
 
                     b.HasKey("PlaneId");
 
-                    b.ToTable("Planes", (string)null);
+                    b.ToTable("Planes");
                 });
 
             modelBuilder.Entity("AM.ApplicationCore.Domain.Staff", b =>
